@@ -132,7 +132,7 @@ section:nth-child(even){
     align-items: center;
     flex-wrap: wrap;
     gap:1.5rem;
-    padding-top: 10rem;
+    padding-top: 15rem;
 }
 
 .home .image{
