@@ -9,6 +9,10 @@
     --border:.2rem solid var(--green);
 }
 
+pt-10{
+    padding-top: 10rem;
+}
+
 *{
     font-family: 'Poppins', sans-serif;
     margin:0; padding: 0;
