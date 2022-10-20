@@ -150,6 +150,13 @@ section:nth-child(even){
     text-shadow: var(--text-shadow);
 }
 
+.home .content .judul {
+    font-size: 3rem;
+    color: var(--black);
+    line-height: 1.8;
+    text-shadow: var(--text-shadow);
+}
+
 .home .content p{
     font-size: 1.7rem;
     color:var(--light-color);
