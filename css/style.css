@@ -55,7 +55,6 @@ section:nth-child(even){
 
 .btn{
     display: inline-block;
-    margin-top: 1rem;
     padding: .5rem;
     padding-left: 1rem;
     border:var(--border);
